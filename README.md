@@ -79,8 +79,8 @@ A community library where readers can share books, discover titles to borrow, an
 
 ## 📊 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=1sababtonoy1&show_icons=true&theme=default) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1sababtonoy1&layout=compact&theme=default) |
-
-![Profile views](https://komarev.com/ghpvc/?username=1sababtonoy1&style=flat-square)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1sababtonoy1/1sababtonoy1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1sababtonoy1/1sababtonoy1/output/github-snake.svg" />
+  <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/1sababtonoy1/1sababtonoy1/output/github-snake.svg" />
+</picture>
